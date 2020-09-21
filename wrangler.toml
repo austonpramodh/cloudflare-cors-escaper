@@ -1,6 +1,6 @@
-name = "cloudflare-proxy-typescript"
+name = "cors-escaper"
 type = "webpack"
-account_id = ""
+account_id = "3eca47354146bf6522ccd96a3f1679dc"
 workers_dev = true
 webpack_config = "webpack.config.js"
 
